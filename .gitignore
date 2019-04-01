@@ -13,6 +13,10 @@
 # User-specific files
 .Ruserdata
 
+# shiny project file
+
+builderPrototipo.Rproj
+
 # Example code in package build process
 *-Ex.R
 
